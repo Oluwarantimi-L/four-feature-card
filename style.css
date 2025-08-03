@@ -1,0 +1,21 @@
+:root{
+    --ff-sans: 'Poppins', sans-serif;
+    --fw-light: 200;
+    --fw-normal: 400;
+    --fw-bold: 600;
+
+    --fs-400: 0.0975rem;
+    --fs-500: 1.25rem;
+    --fs-600: 1.625rem;
+    --fs-900: 2.5rem;
+
+    --color-neutral-100: hsl(0, 0%, 100%);
+    --color-neutral-200: hsl(212, 6%, 44%); 
+    --color-neutral-300: hsl(234, 12%, 34%);
+
+    --color-red: hsl(0, 78%, 62%);
+    --color-cyan: hsl(180, 62%, 55%);   
+    --color-orange: hsl(34, 97%, 64%);
+    --color-blue: hsl(212, 86%, 64%);
+
+}
