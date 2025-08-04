@@ -47,9 +47,15 @@ h3{
 .wrapper{
     max-width: 1100px;
     margin-inline: auto;
-
+    border: 2px solid pink;
 }
 
 .wrapper--narrow{
     max-width: 550px;
+    border: 2px solid blue;
+}
+header{
+    text-align: center;
+    margin-block: 6rem;
+    border: 2px solid green;
 }
